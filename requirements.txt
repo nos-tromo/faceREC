@@ -1,0 +1,8 @@
+click
+dlib
+face-recognition
+face_recognition_models
+numpy
+opencv-python
+pillow
+urllib3

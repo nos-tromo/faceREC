@@ -1,0 +1,18 @@
+[project]
+name = "facerec"
+version = "0.1.0"
+description = "Face recognition from jakecreps's OSINT newsletter with added CLI arguments."
+authors = [
+    { name = "nos-tromo" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "click>=8.1.7",
+    "dlib>=19.24.6",
+    "face-recognition>=1.3.0",
+    "face-recognition-models>=0.3.0",
+    "numpy>=2.1.3",
+    "opencv-python>=4.10.0.84",
+    "pillow>=11.0.0",
+    "urllib3>=2.2.3",
+]
